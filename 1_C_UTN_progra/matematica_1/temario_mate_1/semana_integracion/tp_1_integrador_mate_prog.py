@@ -1,6 +1,6 @@
 import time
 
-print("\nConversión de números del 0 al 15 a binario:\n")
+print("\nConversor del 0 al 15 decimal a binario:\n")
 time.sleep(0.5)
 
 for i in range(16):
