@@ -1,0 +1,34 @@
+A continuación, se detallan las pautas para el trabajo integrador que relaciona matemáticas y programación en Python. Recuerden que la evaluación se realizará bajo el criterio “cumple/no cumple” (la rúbrica se entregará en un documento aparte) y tienen a disposición las consultas sincrónicas en ambas materias para aclarar dudas.
+
+1. Equipos y Organización:
+
+Formarán equipos de hasta 5 integrantes. Pueden hacerlo de forma individual pero no se recomienda ya que la división de tareas hace que el trabajo sea más sencillo y que Ustedes como futuros programadores se acostumbren a trabajar en equipo. Pueden dividirse tareas sin necesidad de encuentros sincrónicos del grupo, aprovechando los medios de comunicación existentes.
+Cuando el equipo tenga más de un miembro, todos deben participar activamente en la explicación del proyecto.
+2. Selección y Desarrollo del Proyecto:
+
+Elijan una de las actividades propuestas debajo o tomen otra según su interés que contemple las tres unidades temáticas vistas en Matemática hasta la fecha.
+El proyecto debe utilizar únicamente los conceptos de programación aprendidos hasta la fecha.
+Integren aspectos matemáticos (por ejemplo, álgebra de Boole, sistema binario, lógica, etc.) y su aplicación en Python.
+3. Consultas Sincrónicas:
+
+Podrán participar en las sesiones de consultas sincrónicas tanto de matemáticas como de programación para evacuar dudas y recibir retroalimentación.
+4. Requerimientos Técnicos:
+
+Código en Python: Elaboren un programa claro, bien documentado y que resuelva el problema o simule el fenómeno matemático seleccionado.
+Video Explicativo:
+Graben un video en el que se muestre el funcionamiento del programa y se explique el proceso de desarrollo.
+Cada integrante tendrá que aparecer con la cámara encendida para poder visualizarlo y debe explicar una parte del proyecto.
+Entrega:
+Suban el video a YouTube. DURACIÓN MÁXIMA DEL VIDEO: 5 MINUTOS
+Entreguen el enlace del video en la plataforma, acompañado de un documento breve tipo PDF que describa el proyecto y contenga el código en Python. 
+5. Evaluación:
+
+La evaluación será “cumple” o “no cumple” según los criterios establecidos en la rúbrica (se proporcionará por separado).
+Se evaluará la correcta aplicación de los conceptos matemáticos. En lo relacionado con el código, se contemplará solo la entrega y si el programa funciona o no según lo que se explique en el video, la claridad en la presentación del video y lo expresado en el mismo.
+6. Uso de Inteligencia Artificial:
+
+
+Integración en el Proceso: Utilizar al menos 3 herramientas de IA en todas las fases del proyecto (caude.ai, ChatGPT, DeepSeek, Gemini, Copilot, Kimi, etc.), desde la generación de ideas hasta la refinación del problema, complementando el análisis y la creatividad del equipo.
+Iteraciones y Refinamiento: Emplear iteraciones que permitan mejorar progresivamente la solución, documentando cada paso del proceso.
+Evidencia y Justificación: Explicar en el video las ventajas o desventajas de cada una de la IA utilizadas, presentar en el video evidencia (capturas, reportes, registros) del uso de la IA y justificar cómo ha contribuido a optimizar el proyecto, CUÁL DE LAS IA UTILIZADAS ES MEJOR PARA PENSAR EL PROBLEMA Y CUÁL ES MAS IDONEA PARA AYUDARME CON EL CÓDIGO ?.
+El objetivo es aplicar de manera práctica lo aprendido, trabajar en equipo y comunicar sus ideas de forma clara y precisa. ¡Mucho éxito en el desarrollo del proyecto!

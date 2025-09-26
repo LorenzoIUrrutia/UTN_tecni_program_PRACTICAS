@@ -1,0 +1,41 @@
+Simulación de Puertas Lógicas Básicas:
+Programa en Python que simule las puertas AND, OR y NOT. Soliciten al usuario ingresar valores binarios (0 o 1) y muestren el resultado de cada operación.
+Extensión: Agregar puertas adicionales (NAND, NOR, XOR) si lo desean.
+
+Conversión de Números:
+Desarrollen un programa que convierta números decimales a binarios y, de forma opcional, también de binario a decimal.
+Extensión: Validar la entrada y mostrar mensajes de error ante datos incorrectos.
+
+Contador Binario:
+Escriban un programa que, usando un ciclo, cuente desde 0 hasta 15 y muestre cada número en su representación binaria.
+Extensión: Utilicen un retardo (por ejemplo, con time.sleep) para simular el conteo de un circuito.
+
+Generador de Tabla de Verdad:
+Cree un programa que genere la tabla de verdad para una expresión booleana sencilla, como "A AND B".
+Extensión: Permitan al usuario elegir entre distintas operaciones lógicas.
+
+Comparador de Expresiones Booleanas:
+Permitan que el usuario ingrese dos expresiones booleanas simples y comparen su resultado evaluando todas las combinaciones posibles de valores para las variables.
+
+Calculadora de Operaciones Bit a Bit:
+Desarrollen un programa que reciba dos números y aplique operaciones bit a bit (AND, OR, XOR) mostrando el resultado tanto en formato decimal como binario.
+
+Simulador de Sumador de 1 Bit:
+Programen un sumador simple que utilice lógica booleana para sumar dos dígitos binarios, mostrando tanto el bit de suma como el "carry" (acarreo).
+
+Juego de Adivinanza en Binario:
+Muestren un número en binario y desafíen al usuario a adivinar su equivalente decimal, o viceversa, reforzando la conversión entre ambos sistemas.
+
+Simulador de Circuito Combinacional Básico:
+Diseñen un programa que combine varias puertas lógicas para resolver un problema sencillo, como determinar si un número binario cumple una condición (por ejemplo, si es par o impar mediante su último dígito).
+
+Evaluador de Implicaciones y Contrarrecíprocas
+Escriban un programa que permita ingresar dos proposiciones simples (p y q) como valores de verdad (0 o 1). El programa debe mostrar el resultado de p⇒q y de su contrarrecíproca ¬q⇒¬p, indicando si ambas son lógicamente equivalentes.
+Extensión: Permitan ingresar expresiones de más de dos proposiciones y mostrar su tabla de verdad.
+
+Generador de Tablas para Doble Implicación
+Programen un generador que tome dos proposiciones p y q y construya la tabla de verdad completa de p⇔q (p “si y solo si” q), destacando las filas en que el resultado es verdadero.
+Extensión: Incluyan un mensaje que indique si p y q son equivalentes lógicas (p≡q).
+
+Clasificador de Proposiciones Compuestas
+Permitan al usuario ingresar una proposición compuesta (por ejemplo, p∨¬p, p∧¬p o p⇒q). El programa debe generar la tabla de verdad y clasificarla como tautología, contradicción o contingencia según corresponda
